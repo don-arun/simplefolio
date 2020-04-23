@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simplefolio/static/css/main.9f76ad70.chunk.css",
+    "main.js": "/simplefolio/static/js/main.67aa7a43.chunk.js",
+    "main.js.map": "/simplefolio/static/js/main.67aa7a43.chunk.js.map",
+    "runtime-main.js": "/simplefolio/static/js/runtime-main.3f634e07.js",
+    "runtime-main.js.map": "/simplefolio/static/js/runtime-main.3f634e07.js.map",
+    "static/js/2.7bd5a37b.chunk.js": "/simplefolio/static/js/2.7bd5a37b.chunk.js",
+    "static/js/2.7bd5a37b.chunk.js.map": "/simplefolio/static/js/2.7bd5a37b.chunk.js.map",
+    "index.html": "/simplefolio/index.html",
+    "precache-manifest.8ac2bb59a4780a884ea2f3910b35d826.js": "/simplefolio/precache-manifest.8ac2bb59a4780a884ea2f3910b35d826.js",
+    "service-worker.js": "/simplefolio/service-worker.js",
+    "static/css/main.9f76ad70.chunk.css.map": "/simplefolio/static/css/main.9f76ad70.chunk.css.map",
+    "static/js/2.7bd5a37b.chunk.js.LICENSE.txt": "/simplefolio/static/js/2.7bd5a37b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f634e07.js",
+    "static/js/2.7bd5a37b.chunk.js",
+    "static/css/main.9f76ad70.chunk.css",
+    "static/js/main.67aa7a43.chunk.js"
+  ]
+}
